@@ -6,4 +6,5 @@ const car = {
 
 const keys = Object.keys(car);
 
+console.log(car);
 console.log(keys);
